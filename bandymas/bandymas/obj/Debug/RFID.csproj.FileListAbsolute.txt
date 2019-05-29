@@ -1,0 +1,17 @@
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.exe.config
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.exe
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.pdb
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\Google.Protobuf.dll
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\MySql.Data.dll
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\Google.Protobuf.xml
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\MySql.Data.xml
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\RFID.csprojAssemblyReference.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Form1.resources
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Form2.resources
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Properties.Resources.resources
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\RFID.csproj.GenerateResource.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\RFID.csproj.CoreCompileInputs.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\RFID.csproj.CopyComplete
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.exe
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.pdb
