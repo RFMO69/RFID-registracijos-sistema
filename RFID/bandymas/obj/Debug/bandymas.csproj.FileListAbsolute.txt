@@ -1,0 +1,11 @@
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.exe.config
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.exe
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\bin\Debug\bandymas.pdb
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.csprojAssemblyReference.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Form1.resources
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Properties.Resources.resources
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.csproj.GenerateResource.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.csproj.CoreCompileInputs.cache
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.exe
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.pdb
+C:\Users\Martynas.DESKTOP-J005I0L\Desktop\bandymas\bandymas\obj\Debug\bandymas.Form2.resources
